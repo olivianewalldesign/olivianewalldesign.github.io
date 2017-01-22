@@ -1,0 +1,41 @@
+body {
+  background-color: rgb(195, 201, 199);
+  font-family: helvetica;
+  text-align:center;
+}
+
+
+h1 {
+  font-size: 100px;
+  color: black;
+  font-family: helvetica;
+
+}
+
+
+h2 {
+  font-size: 70px;
+  color: black;
+  font-family: helvetica;
+}
+
+h3 {
+  font-size: 40px;
+  color: black;
+  font-family: helvetica;
+}
+
+.imagediv {
+  position: relative;
+  width: 100%;
+  height:200px;
+  background-color: blue;
+}
+
+img {
+  size: 300px;
+  position: absolute;
+  left: 50px;
+  top: 50px;
+  width: 50px;
+  height: 50px;
